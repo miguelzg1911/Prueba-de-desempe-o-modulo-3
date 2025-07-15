@@ -16,8 +16,9 @@
  2. Instala json-server global: `npm install -g json-server`
  3. Instala las dependencias: npm install
  4. Ejecuta: `npm run dev`
- 5. Abre `index.html` en navegador.
- 6. Usa el usuario admin para ingresar:
+ 5. Ejecuta: `json-server --watch db.json`
+ 6. Abre `index.html` en navegador desde el vite en la consola.
+ 7. Usa el usuario admin para ingresar:
   - **Correo:** admin@eventos.com
   - **Contraseña:** admin123
 
